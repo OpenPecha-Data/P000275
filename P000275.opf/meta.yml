@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་ཆེན་པོ་མདའ་བསྣུན་ཞབས་ཀྱི་རྣམ་པར་ཐར་པ་ལ་བསྔགས་པ་བརྗོད་པའི་ཚིགས་སུ་བཅད་པ་ཨེ་ཝཾ་ཕྱག་རྒྱའི་ཟློས་གར་བདེ་ཆེན་བཞད་པའི་གླུ་དབྱངས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ས་ར་ཧ།
+  sku: TSD-001
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: A Song for the Performance of Blissful E-Wam Mudra:A Praise of the Biography
+      of the Great Yogi Saraha in Verses
+    bo: རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་ཆེན་པོ་མདའ་བསྣུན་ཞབས་ཀྱི་རྣམ་པར་ཐར་པ་ལ་བསྔགས་པ་བརྗོད་པའི་ཚིགས་སུ་བཅད་པ་ཨེ་ཝཾ་ཕྱག་རྒྱའི་ཟློས་གར་བདེ་ཆེན་བཞད་པའི་གླུ་དབྱངས་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Tsadra Publishing–  Book 1
+    bo: ཙཱ་འདྲ་དཔེ་སྐྲུན།–  དེབ། ༡
+  author:
+    en: Saraha
+    bo: ས་ར་ཧ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-001
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-001.epub
+  description:
+    en: ''
+    bo: ''
